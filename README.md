@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/RichCorner/AzurePipelinesLab/_apis/build/status%2Fmicro9000.pipelines-dotnet-core-lab1?branchName=master)](https://dev.azure.com/RichCorner/AzurePipelinesLab/_build/latest?definitionId=15&branchName=master)
+
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
